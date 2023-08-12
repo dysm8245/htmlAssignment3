@@ -1,0 +1,26 @@
+.center{
+    position: absolute;
+    text-align: center;
+  }
+  .bg-black{
+    background: black;
+  }
+  .nav-item{
+    padding-left: 60px;
+  }
+  .features{
+    font-size: 6vw;
+  }
+  .navbar-brand{
+    padding-left: 100px;
+    font-size: 50px;
+  }
+  .border{
+    border: 1px;
+  }
+  .bg-gray{
+    background: rgb(239, 235, 235);
+  }
+  .icons{
+    color: orange;
+  }
