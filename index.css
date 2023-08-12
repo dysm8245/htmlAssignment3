@@ -1,19 +1,20 @@
-.center{
-    position: absolute;
-    text-align: center;
-  }
+/* *{
+  border: 1px solid red;
+} */
   .bg-black{
     background: black;
   }
   .nav-item{
     padding-left: 60px;
   }
-  .features{
-    font-size: 6vw;
-  }
   .navbar-brand{
     padding-left: 100px;
-    font-size: 50px;
+  }
+  a.title{
+    font-size: 30px;
+  }
+  .times{
+    font-family: 'Times New Roman', Times, serif;
   }
   .border{
     border: 1px;
@@ -23,4 +24,22 @@
   }
   .icons{
     color: orange;
+  }
+  .social-links{
+    text-decoration: none;
+  }
+  .img-text-container {
+    position: relative;
+  }
+  .inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    padding: 30px;
+  }
+  .features{
+    font-size: 80px;
+    font-family:'Times New Roman', Times, serif;
   }
